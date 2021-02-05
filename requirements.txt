@@ -2,5 +2,4 @@ Django
 Markdown
 requests
 martor
-gunicorn 
- 
+gunicorn
